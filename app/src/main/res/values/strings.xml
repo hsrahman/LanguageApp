@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Language App</string>
+    <string name="settings">Settings</string>
+    <string name="language_option">Language</string>
+    <string name="welcome">Hello World!</string>
+
+    <string-array name="lang_options" >
+        <item>EN</item>
+        <item>ES</item>
+        <item>DE</item>
+    </string-array>
+</resources>

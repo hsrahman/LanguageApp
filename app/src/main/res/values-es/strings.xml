@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aplicación de idioma</string>
+    <string name="settings">Ajustes</string>
+    <string name="language_option">Idioma</string>
+    <string name="welcome">Hola Mundo!</string>
+</resources>

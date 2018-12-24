@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sprache App</string>
+    <string name="settings">der Rahmen</string>
+    <string name="language_option">Sprache</string>
+    <string name="welcome">Hallo Welt!</string>
+</resources>
